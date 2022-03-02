@@ -1,4 +1,4 @@
-from temp import main2
+from temp import main_2
 
 
 def test_sub():
